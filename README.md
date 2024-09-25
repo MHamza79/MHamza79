@@ -1,4 +1,9 @@
-## Hi there 👋
+
+- I'm Studying Bachelors in Artificial Intelligence
+- I'm Working on my Flutter skills
+- I'm learning different skills as MongoDB and figma
+- Aiming to learn machine learning with python
+  
 
 <!--
 **MHamza79/MHamza79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
